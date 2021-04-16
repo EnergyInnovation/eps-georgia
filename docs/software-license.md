@@ -9,12 +9,13 @@ Note that this license applies to the EPS, not to Vensim.  Vensim is commercial 
 
 ## Image Credits
 
-Cypress trees at Lake Martin, Breaux Bridge, Louisiana
+Savannah, Georgia
 
-Joshua J. Cotten
+Ashley Knedler
 
-[https://unsplash.com/photos/nTk0RJXA0iw]({https://unsplash.com/photos/nTk0RJXA0iw})
+[https://unsplash.com/photos/9SW9IvKD9OY](https://unsplash.com/photos/9SW9IvKD9OY)
 
-License: Unsplash
+License: Unplash License
 
 Changes: Image has been cropped and a fade has been applied to the left side.
+
