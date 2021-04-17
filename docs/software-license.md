@@ -15,7 +15,7 @@ Ashley Knedler
 
 [https://unsplash.com/photos/9SW9IvKD9OY](https://unsplash.com/photos/9SW9IvKD9OY)
 
-License: Unplash License
+License: Unsplash License
 
 Changes: Image has been cropped and a fade has been applied to the left side.
 
